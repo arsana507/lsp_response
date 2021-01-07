@@ -1,13 +1,13 @@
-# Response LSP
+# Response LSP :smile:
 
-1.  [**Login**](#1.-Login "Login Response")
-    -   [Normal Login](#Normal-login "Normal Login Response")
-    -   [Login with cookie](#Login-with-cookie "Login with cookie Response")
-2.  [**Autocomplete Dosen**](#2.-Autocomplete-Dosen "Autocomplete Dosen Response")
-3.  [**GET Dosen Name**](#3.-GET-Dosen-Name "Dosen Name Response")
-4.  [**Prodi**](#4.-Prodi "Prodi-Response")
-    -   [GET Prodi Name](#GET-Prodi-Name "Prodi Name Response")
-    -   [GET All Prodi](#GET-All-Prodi "All Prodi Response")
+1.  [**Login**](#1.-login "Login Response")
+    -   [Normal Login](#normal-login "Normal Login Response")
+    -   [Login with cookie](#login-with-cookie "Login with cookie Response")
+2.  [**Autocomplete Dosen**](#2.-autocomplete-dosen "Autocomplete Dosen Response")
+3.  [**GET Dosen Name**](#3.-get-dosen-name "Dosen Name Response")
+4.  [**Prodi**](#4.-Prodi "prodi-response")
+    -   [GET Prodi Name](#get-prodi-name "Prodi Name Response")
+    -   [GET All Prodi](#get-all-prodi "All Prodi Response")
 
 ## 1. Login
 
@@ -345,4 +345,4 @@ GET
 
 #
 
-[Go To TOP](#Response-LSP)
+[Go To TOP](#response-lsp)
